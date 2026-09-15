@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "NetSimR"]
 	path = NetSimR
-	url = https://github.com/cran/NetSimR
+	url = https://github.com/netsimanalytics/netsimr
